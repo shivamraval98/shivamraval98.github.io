@@ -1,0 +1,41 @@
+# site settings
+title: Shivam Raval
+subtitle: 
+email: shivamraval0@gmail.com
+description: 
+baseurl: # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 
+city: New York
+state: NY
+zip_code: 
+country: United States of America
+phone: 
+
+# homepage tiles
+tiles-source: # accepts "posts" or "pages"
+tiles-count: 
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/shivamraval98
+researchgate_url: 
+gitlab_url: 
+googlescholar_url: https://scholar.google.com/citations?user=BMNIaKkAAAAJ&hl=en&oi=ao
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/shivamraval12
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# Google Analytics
+google_analytics: 
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
